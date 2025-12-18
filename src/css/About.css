@@ -1,0 +1,38 @@
+*{
+    color: blue;
+    text-align: justify;
+}
+
+body{
+    color: yellow;
+    text-align: justify;
+}
+
+h1,h2,h3,h4,h5{
+    color: blue;
+    text-align: center;
+}
+
+p{
+    color: blue;
+    text-align: justify;
+}
+
+body .navlink{
+    color: green;
+    text-align: justify;
+}
+
+
+    
+
+
+
+
+
+
+
+
+
+
+
